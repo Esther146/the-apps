@@ -20,6 +20,12 @@ export default function Home() {
                 <p className="text-center mt-10 text-gray-600 text-lg">
                     Thank you!
                 </p>
+
+                <p className="text-center mt-6 font-medium text-gray-700">Don't have an account? 
+                    <Link to="/signup">
+                    <span className="font-bold text-black"> Sign up</span>
+                    </Link>
+                </p>
             </div>
         </div>
     )
