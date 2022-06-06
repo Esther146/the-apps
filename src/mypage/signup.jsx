@@ -5,7 +5,7 @@ import { FaGoogle, FaLinkedin} from 'react-icons/fa'
 export default function Signup() {
     return (
         <div className="w-full h-auto flex justify-center items-center bg-gray-200">
-            <div className="w-96 h-auto bg-white shadow-md rounded-xl p-6 flex flex-col mt-16">
+            <div className="w-96 h-auto bg-white shadow-md rounded-xl p-6 flex flex-col mt-10">
                 <h3 className="text-black text-2xl font-bold text-center">
                     HerTech
                 </h3>
