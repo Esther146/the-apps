@@ -5,7 +5,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 export default function Home() {
     return (
         <div className="w-full h-auto flex justify-center items-center bg-gray-200">
-            <div className="w-96 h-auto bg-white shadow-md rounded-xl p-6 flex flex-col mt-16">
+            <div className="w-96 h-auto bg-white shadow-md rounded-xl p-6 flex flex-col npmmt-16">
+
                 <h1 className="text-2xl font-bold m-6 text-center text-black">
                     HerTechTrail Capstone project
                 </h1>
