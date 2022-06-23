@@ -1,7 +1,7 @@
 {
   "name": "the-apps",
   "version": "0.1.0",
-  "homepage": "https://Esther146.github.io/the-apps",
+  "homepage": "https://esther146.github.io/the-apps/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
